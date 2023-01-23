@@ -1,6 +1,6 @@
 # Readme generator
 ## Description
-README generator is a command line application that accepts user input that translate them into professional README.md for your new project
+README generator is a command line application that accepts user input that translate into professional README.md for your new project
     
 ## Table of Contents
 - [Description](#Description)
