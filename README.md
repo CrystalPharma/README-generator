@@ -17,7 +17,9 @@ README generator is a command line application that accepts user input that tran
 <code>git clone</code> the README generator repository locally to your device then direct to the root of the file command <code>npm init</code> then npm install for all the relevant packages.
 ## Usage
 Direct to the root of the file and command <code>npm index</code>
-![Video](https://watch.screencastify.com/v/orihK8EnjC2iQidPz6Yp)
+<video width="320" height="240" controls>
+<source src="./demo.webm" type="video/webm">
+</video>
 
 ## License
 MIT
