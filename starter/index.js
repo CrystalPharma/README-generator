@@ -111,16 +111,3 @@ ${question} on ${email}
         err ? console.log(err) : console.log('You have successfully created a standard README.md!')
     );
 });
-
-// function to write README file
-// function writeToFile(fileName, data) {
-// }
-
-
-// // function to initialize program
-// function init() {
-
-// }
-
-// // function call to initialize program
-// init();

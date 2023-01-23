@@ -31,6 +31,6 @@ not applicable
 Please do not hesitate to contact via email should there be any question on crystalpharmauk@gmail.com
 
 ## Badges
-[![GitHub](https://img.shields.io/github/languages/top/CrystalPharma/README-generator)
+![GitHub](https://img.shields.io/github/languages/top/CrystalPharma/README-generator)
 
 ![GitHub](https://img.shields.io/github/license/CrystalPharma/README-generator)
