@@ -101,7 +101,7 @@ ${test}
 ${question} on ${email}
 
 ## Badges
-[![GitHub](https://img.shields.io/github/languages/top/${username}/${repoName})
+![GitHub](https://img.shields.io/github/languages/top/${username}/${repoName})
 
 ![GitHub](https://img.shields.io/github/license/${username}/${repoName})`
 
