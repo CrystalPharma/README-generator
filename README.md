@@ -14,9 +14,9 @@ README generator is a command line application that accepts user input that tran
 - [Badges](#Badges)
 
 ## Installation
-Git clone the README generator repository locally to your device then direct to the root of the file command npm init then npm install for all the relevant packages.
+<code>git clone</code> the README generator repository locally to your device then direct to the root of the file command <code>npm init</code> then npm install for all the relevant packages.
 ## Usage
-Direct to the root of the file and command npm index
+Direct to the root of the file and command <code>npm index</code>
     
 ## License
 MIT
