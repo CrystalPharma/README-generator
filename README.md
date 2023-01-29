@@ -21,7 +21,7 @@ README generator is a command line application that accepts user input that tran
     
 ## Usage
 1. Once you have successfully installed the README generator repository as per described
-Change your directory into `starter` and command `npm i` to download any relevant packages require for the application in the VS code 
+Change your directory into `starter` and command `npm i` to download any relevant packages require for the application in the VS code terminal
 2. Then, command `node index` or `node index.js` in the VS code terminal, the VS code terminal would then direct you to a series of questions 
 3. Filling in details as the question directed you to create an unique README.md to your repository
 
