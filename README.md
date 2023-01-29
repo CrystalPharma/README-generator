@@ -19,7 +19,6 @@ README generator is a command line application that accepts user input that tran
    
      git clone https://github.com/CrystalPharma/README-generator.git
     
-
 ## Usage
 1. Once you have successfully installed the README generator repository as per described
 Change your directory into `starter` and command `npm i` to download any relevant packages require for the application in the VS code 
