@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require('path');
 const inquirer = require("inquirer");
-const generateMarkdown = require("./utils/generateMarkdown");
+
 
 // array of questions for user
 inquirer.prompt([
@@ -106,7 +106,7 @@ ${question} on ${email}
 ![GitHub](https://img.shields.io/github/license/${username}/${repoName})`
 
 
-    const filename = `${name.toLowerCase().split(' ').join('')}.md`;
+    const filename = `${name.toLowerCase().split('').join('')}.md`;
     fs.writeFile("README.md", readme, (err) =>
         err ? console.log(err) : console.log('You have successfully created a standard README.md!')
     );
