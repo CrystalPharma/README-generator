@@ -25,7 +25,7 @@ Change your directory into `starter` and command `npm i` to download any relevan
 2. Then, command `node index` or `node index.js` in the VS code terminal, the VS code terminal would then direct you to a series of questions 
 3. Filling in details as the question directed you to create an unique README.md to your repository
 
-For more details, please visit <a target="_blank" href="https://drive.google.com/file/d/1vaPkgNie1x6SyHwiminI4ojs12Uw224u/view?usp=sharing> demonstration">demonstration video</a>
+For more details, please visit <a href="https://drive.google.com/file/d/1vaPkgNie1x6SyHwiminI4ojs12Uw224u/view?usp=sharing> demonstration" target="_blank">demonstration video</a>
 
 
 ## License
