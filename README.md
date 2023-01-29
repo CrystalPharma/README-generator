@@ -15,8 +15,9 @@ README generator is a command line application that accepts user input that tran
 
 ## Installation
  Git clone the README generator repository to your local machine via  
+ 
     ```
-     git clone https://github.com/CrystalPharma/README-generator.git
+    git clone https://github.com/CrystalPharma/README-generator.git
     ```
 
 ## Usage
