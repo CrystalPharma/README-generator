@@ -14,16 +14,19 @@ README generator is a command line application that accepts user input that tran
 - [Badges](#Badges)
 
 ## Installation
-1. Git clone the README generator repository to your local machine via 
+ Git clone the README generator repository to your local machine via 
     ```
      git clone https://github.com/CrystalPharma/README-generator.git
     ```
-2. Change your directory into `starter` and command `npm i` to download any relevant packages require for the application in the VS code 
-3. Then, command `node index` or `node index.js` in the VS code terminal, the VS code terminal would then direct you to a series of questions 
-4. Filling in details as the question directed you to create an unique README.md to your repository
 
 ## Usage
-Change your directory to `starter` and command `npm index`.
+1. Once you have successfully installed the README generator repository as per described
+Change your directory into `starter` and command `npm i` to download any relevant packages require for the application in the VS code 
+2. Then, command `node index` or `node index.js` in the VS code terminal, the VS code terminal would then direct you to a series of questions 
+3. Filling in details as the question directed you to create an unique README.md to your repository
+
+For more details, please visit https://drive.google.com/file/d/1vaPkgNie1x6SyHwiminI4ojs12Uw224u/view?usp=sharing
+for demonstration
 
 ## License
 MIT
